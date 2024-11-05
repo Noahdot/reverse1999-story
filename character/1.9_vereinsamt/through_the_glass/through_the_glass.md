@@ -30,3 +30,27 @@
 |Kakania| ...|
 
 *She is the only survivor. Her arm drops to her lap, and she looks absently at the knot in her hand.*
+
+
+|---|---|
+|Kakania| Just so ...|
+||Look, it's no harder than tying a sailor's hitch.|
+||* exhale *|
+||Maybe, it can protect us from this disaster.|
+||...|
+||Yes, right.|
+||It is as simple as this, right.|
+||...|
+
+
+```
+*What is lurking in the mirror? Grief.*
+
+*What is stirring beyond the wall? Calamity.*
+
+*—Anna Akhmatova*
+
+Kakania:    Just so ...
+            Look, it's no harder than tying a sailor's hitch.
+            * exhale *
+```
