@@ -8,21 +8,21 @@
 
 *—Anna Akhmatova*
 
-**Kakania**　　Just so ...
+**Kakania:**　　Just so ...
 
-**Kakania**　　Look, it's no harder than tying a sailor's hitch.
+**Kakania:**　　Look, it's no harder than tying a sailor's hitch.
 
-**Kakania**　　* exhale *
+**Kakania:**　　* exhale *
 
-**Kakania**　　Maybe, it can protect us from this disaster.
+**Kakania:**　　Maybe, it can protect us from this disaster.
 
-**Kakania**　　...
+**Kakania:**　　...
 
-**Kakania**　　Yes, right.
+**Kakania:**　　Yes, right.
 
-**Kakania**　　It is as simple as this, right.
+**Kakania:**　　It is as simple as this, right.
 
-**Kakania**　　...
+**Kakania:**　　...
 
 *She holds up the knot in her hand.*
 
@@ -30,6 +30,6 @@
 
 *Despite the knots in their hands, the people around her have all started to melt away in the rising rain.*
 
-**Kakania**　　...
+**Kakania:**　　...
 
 *She is the only survivor. Her arm drops to her lap, and she looks absently at the knot in her hand.*
