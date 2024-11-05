@@ -10,9 +10,9 @@
 
 **Kakania:**　　Just so ...
 
-　　　　　　Look, it's no harder
+**Kakania:**　　Look, it's no harder
 
-　　　　　　　　　Look, it's no harder
+**Kakania:**　　Look, it's no harder
 
 |||
 |---|---|
