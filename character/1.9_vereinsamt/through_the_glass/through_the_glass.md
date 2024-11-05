@@ -33,3 +33,14 @@
 **Kakania:**　　...
 
 *She is the only survivor. Her arm drops to her lap, and she looks absently at the knot in her hand.*
+
+
+:::info
+test
+:::
+
+> *She is the only survivor. Her arm drops to her lap, and she looks absently at the knot in her hand.*
+
+:::spoiler
+test
+:::
