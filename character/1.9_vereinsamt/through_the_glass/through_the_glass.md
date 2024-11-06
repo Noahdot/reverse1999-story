@@ -8,6 +8,7 @@
 
 ## Table of contents
 - [Preface. The World of Yesterday](#preface-the-world-of-yesterday)
+- [Part 01. Tristan Chord](#part-01-tristan-chord)
 
 ## Preface. The World of Yesterday
 
@@ -42,3 +43,11 @@
 **Kakania:**　　...
 
 > *She is the only survivor. Her arm drops to her lap, and she looks absently at the knot in her hand.*
+>
+> *This is the only thing she could do.*
+
+## Part 01. Tristan Chord
+
+**Kakania:**　　...
+
+**Laplace Researcher:**　　Ma'am, listen.
