@@ -1,12 +1,21 @@
 # Through the Glass
 
+> From an unmerciful destruction,
+>
+> From the fragments of yesteryear,
+>
+> Comes truth.
+
+## Table of contents
+- [Preface. The World of Yesterday](#preface-the-world-of-yesterday)
+
 ## Preface. The World of Yesterday
 
-*What is lurking in the mirror? Grief.*
-
-*What is stirring beyond the wall? Calamity.*
-
-*—Anna Akhmatova*
+> *What is lurking in the mirror? Grief.*
+>
+> *What is stirring beyond the wall? Calamity.*
+>
+> *—Anna Akhmatova*
 
 **Kakania:**　　Just so ...
 
@@ -24,23 +33,12 @@
 
 **Kakania:**　　...
 
-*She holds up the knot in her hand.*
-
-*But there are no cheers of jubilation.*
-
-*Despite the knots in their hands, the people around her have all started to melt away in the rising rain.*
+> *She holds up the knot in her hand.*
+>
+> *But there are no cheers of jubilation.*
+>
+> *Despite the knots in their hands, the people around her have all started to melt away in the rising rain.*
 
 **Kakania:**　　...
 
-*She is the only survivor. Her arm drops to her lap, and she looks absently at the knot in her hand.*
-
-
-:::info
-test
-:::
-
 > *She is the only survivor. Her arm drops to her lap, and she looks absently at the knot in her hand.*
-
-:::spoiler
-test
-:::
