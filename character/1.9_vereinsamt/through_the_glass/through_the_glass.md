@@ -83,3 +83,23 @@
 **Kakania:**　　...
 
 **Foundation Staff Member I:**　　So we've invited Madam Lucy, the lead of immunity equipment production, to come speak with you. Please put down the sharp object and wait—
+
+> *She's interrupted by the clanging of steel footsteps and a voice from outside the room.*
+
+**Lucy:**　　I have been informed that I am needed here.
+
+**Foundation Staff Member I:**　　Madam Lucy! That was quick.
+
+**Kakania:**　　Hm?
+
+**Kakania:**　　Madam Lucy. Is that you?
+
+> *The footsteps grow steadily louder until Madam Lucy is standing squarely in the doorframe.*
+
+**Lucy:**　　Yes. It is me. And you are ...
+
+> *Her scanning process finishes within a second.*
+
+**Lucy:**　　Ms. Klara Vingler.
+
+**Kakania:**　　That's right!
