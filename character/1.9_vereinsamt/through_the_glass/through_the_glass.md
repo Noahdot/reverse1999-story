@@ -103,3 +103,11 @@
 **Lucy:**　　Ms. Klara Vingler.
 
 **Kakania:**　　That's right!
+
+**Kakania:**　　We've only heard each other over the phone. I'm impressed you recognized me so easily!
+
+**Lucy:**　　Your name is written on the end of the bed.
+
+> *She points to the name tag. She had simply scanned the room.*
+
+**Kakania:**　　Oh, the name card. Of course. Haha.
