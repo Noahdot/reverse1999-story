@@ -6,7 +6,7 @@
 >
 > Comes truth.
 
-## Table of contents
+## Table of Contents
 - [Preface. The World of Yesterday](#preface-the-world-of-yesterday)
 - [Part 01. Tristan Chord](#part-01-tristan-chord)
 
@@ -111,3 +111,13 @@
 > *She points to the name tag. She had simply scanned the room.*
 
 **Kakania:**　　Oh, the name card. Of course. Haha.
+
+> *The staff member nods and passes the file to Lucy.*
+
+**Foundation Staff Member I:**　　I'll leave her to you then, madam. And please be wary of the glass shard in her hand.
+
+**Lucy:**　　Not to worry. A shard of glass cannot harm me.
+
+> *She reaches out a shiny hand to Kakania.*
+
+**Lucy:**　　It is a pleasure to meet you, Ms. Vingler. You are the only one who made the knot and successfully survived the "Storm." I have many questions for you.
