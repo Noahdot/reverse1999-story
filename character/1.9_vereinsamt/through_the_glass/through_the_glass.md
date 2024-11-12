@@ -121,3 +121,9 @@
 > *She reaches out a shiny hand to Kakania.*
 
 **Lucy:**　　It is a pleasure to meet you, Ms. Vingler. You are the only one who made the knot and successfully survived the "Storm." I have many questions for you.
+
+**Lucy:**　　Especially about your condition, side effects, and what it felt like in the throes of the "Storm."
+
+**Lucy:**　　However, due to my suspension from Laplace, my colleagues will carry out the querying for me. Your answers will be of significant help to my research.
+
+**Lucy:**　　As a time-traveler, you must have many questions for us as well. I will try my best to answer them for you.
