@@ -127,3 +127,11 @@
 **Lucy:**　　However, due to my suspension from Laplace, my colleagues will carry out the querying for me. Your answers will be of significant help to my research.
 
 **Lucy:**　　As a time-traveler, you must have many questions for us as well. I will try my best to answer them for you.
+
+**Kakania:**　　You're suspended?
+
+**Lucy:**　　Is that your first question?
+
+**Lucy:**　　The answer is yes. I received a suspension order because ...
+
+> *The robot tilts her head, searching for the reason in her almost-ruined database.*
